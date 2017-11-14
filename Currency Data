@@ -1,0 +1,42 @@
+CURRENCY
+What is Currency?
+
+Currency is a generally accepted form of money such as coins, treasury notes, and banknotes that is in circulation as a medium of exchange.
+Usually, each country has its own currency. For instance, Turkey’s official currency is Turkish Lira, Japan’s is the yen. Although, Euro is used as a currency of  different European countries.
+Some currencies like online currency( Bitcoins) or branded currency ( credit card points) are not affiliated to any countries. Their values depend on the products they are connected to.
+Foreign Exchange Market is a great market which provides trading currency to the financiers.
+Excange rate is used when two currencies are converted into one another.
+Goverment occasionally want to control hot money flows. At these times, currencies are not allowed to be converted.
+Foreign Exchange Market(Forex)
+Foreign Exchange Market is world’s largest financial market in which currencies are traded.(buy, sell, exchange,speculate)
+ The purpose of creating this market is that money from international trade can easily flow.
+It is decentralized.
+It has large number of participants.
+Some Important Functions of FX Market
+To set the prices of currencies with respect to others.
+If investments are made in another currency, allowing the exchange rate to take place.
+To support the exchange of funds between countries. Therefore need of liquidity of the countries can be observed.
+(Liquidity is the name given to the ease with which a financial product, securities or real estate can be converted into cash.)
+Financing international commerce , whose transactions represent a important part of the foreign exchange market.
+
+Currency Convertibility
+A currency is called convertible if it can be converted into another currency without government restrictions. It is very important for international trade. Sometimes government  wants to control hot money flows and do not allow the currencies to participate the Foreign Exchange Market and they are not allowed to be converted.
+When a currency is not convertible, it is risky trade with foreigners who do not need the domestic currency. 
+
+ISO 4217
+ISO 4217 arranges the three-letter codes for representation of currencies. 
+
+Base and Counter(Quote) Currency
+In Forex Market, currencies are quoted as currency pairs. First part is «base currency» and the second part of the quotation is «counter» or «quote currency».
+ These currency pairs are demonstrates that how much counter currency is needed to buy one unit of base currency.
+ The main qoute currencies are euro,U.S dollar, British pound etc.
+
+Funding Currency
+The currency which usually has a low interest rate. Investors borrow the funding currency and invest in a currency with a higher interest rate. And make money on the difference between the rates.
+
+International Currency Converter
+An electronic program for convert one currency to another quickly. It uses the most recent rates in Forex.
+...
+I used online data from Quandl which demonstrates the currency exchange rates of euro and US dollar : https://www.quandl.com/data/CURRFX/EURUSD-Currency-Exchange-Rates-EUR-vs-USD
+
+My data has 4 columns and 5381 rows
