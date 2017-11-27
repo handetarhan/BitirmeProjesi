@@ -1,0 +1,37 @@
+CURRENCY
+What is Currency?
+
+  Currency is a generally accepted form of money such as coins, treasury notes, and banknotes that is in circulation as a medium of exchange.Usually, each country has its own currency. For instance, Turkey’s official currency is Turkish Lira, Japan’s is the yen. Although, Euro is used as a currency of  different European countries.Some currencies like online currency( Bitcoins) or branded currency ( credit card points) are not affiliated to any countries. Their values depend on the products they are connected to. ISO 4217 arranges the three-letter codes for representation of currencies. For instance, the three-letter code of Euro is "EUR", Russian Rouble is represented by "RUB", U.S Dollar is "USD".
+  A currency is called convertible if it can be converted into another currency without government restrictions. It is very important for international trade. Sometimes government  wants to control hot money flows and do not allow the currencies to participate the Foreign Exchange Market and they are not allowed to be converted.When a currency is not convertible, it is risky trade with foreigners who do not need the domestic currency. Exchange rate is used when two currencies are converted into one another.The most important factor affecting the exchange rate is the supply demand factor. The exchange rate / exchange rates are determined at the point where the supply and demand intersect. Foreign exchange demand of any country reflects its current deficit. The fact that the foreign currencies spent in the country are more than the foreign currencies entering the country, causes the current account deficit problem.Foreign exchange rates move downward in a country's economy where demand is sought. On the contrary, foreign exchange rates move upwards in a country economy where demand is high.
+  In the economies where the fixed exchange rate regime is applied, the exchange rate is bought and sold at a fixed price determined by the central bank of that country. Here is a question that may come to mind; does not the exchange rate move up or down in any way? Of course, but central banks can keep the exchange rate constant over the price determined by means of measures to compensate for this increase / decrease using the instruments in hand.
+  
+  In the nominal effective exchange rate, the size of the foreign trade in which an country is made by other countries is used as weight. Returns the relative value of the local currency.
+The real effective exchange rate index is calculated in various forms. A group of these are the effective exchange rate indices described above, which are calculated by taking into account inflation rates of the countries where basket currencies belong to and the inflation rates of the local country. The other is the real exchange rate index which is taken into account the unit labor costs of the countries.
+
+ If a floating exchange rate regime is exercised in a country, then the value of the country's currency against foreign currencies, ie the exchange rate, is determined. If the foreign exchange is regarded as a kind of commodity, it can be seen that the exchange rate which is its price is determined according to the supply and demand rules like the price of the other commodities. In a country there is plenty of foreign currency, domestic currency is short, exchange rate is low,on the other hand, foreign exchange is scarce, domestic currency is abundant if the exchange rate is high. In the floating exchange rate regime, the exchange rates constantly rise or fall according to the movements in the market. If the value of an country loses value against the foreign currency, it is called "depreciation"; if it gains value, it is called "value appreciation". Exchange rates are also affected by inflation,interest rates,capital and political factors.
+  Foreign Exchange Market is a great market which provides trading currency to the financiers.It is decentralized and has large number of participants.Foreign Exchange Market is world’s largest financial market in which currencies are traded.(buy, sell, exchange,speculate)
+The purpose of creating this market is that money from international trade can easily flow. Some important functions of FX Market are setting the prices of currencies with respect to others, financing international commerce whose transactions represent a important part of the foreign exchange market ,allowing the exchange rate to take place when investments are made in another currency and supporting the exchange of funds between countries. Therefore need of liquidity of the countries can be observed. (Liquidity is the name given to the ease with which a financial product, securities or real estate can be converted into cash.) 
+ Forex provides the most recent rates for "International Currency Converter" which is an electronic program for convert one currency to another quickly.In FX Market, currencies are quoted as currency pairs. First part is «base currency» and the second part of the quotation is «counter» or «quote currency».These currency pairs are demonstrates that how much counter currency is needed to buy one unit of base currency.The main qoute currencies in world are Euro,U.S dollar, British pound etc. Currency pairs can be divided into two types which are "direct" and "indirect". In a direct quote; the native currency is the base currency while the foreign currency is the quote currency. On the opposite way; in indirect quote, the foreign currency is the base currency and the native currency is the quote currency. For example, for an American trader, the EUR/USD quote is an indirect one.
+
+
+About my data:
+ 
+EUR/USD :
+It is the one of the most  used exchange rates in the world. I want to give a short information about it.
+The EUR/USD is affected by factors that influence the value of the euro and/or the U.S. dollar in relation to each other and to other currencies. For this reason, when compared to each other value of these currencies are affected by the interest rate difference between the European Central Bank (ECB) and the Federal Reserve (Fed). When the Fed interferes in open market activities to make the U.S. dollar stronger, for example, the value of the EUR/USD cross could decline due to a strengthening of the U.S. dollar compared to the euro.
+
+
+I used online datas from Quandl:
+
+https://www.quandl.com/data/CURRFX/EURRUB-Currency-Exchange-Rates-EUR-vs-RUB:
+This exchange rate shows the value of 1 Euro in Russian Roubles. This exchange rate is an amalgamation of rates from multiple sources. These include exchanges, brokerages, newspapers and central bank sources. High and Low rates are crudely estimated.
+
+https://www.quandl.com/data/CURRFX/EURUSD-Currency-Exchange-Rates-EUR-vs-USD:
+This exchange rate shows the value of 1 Euro in U.S. Dollars. This exchange rate is an ama:lgamation of rates from multiple sources. These include exchanges, brokerages, newspapers and central bank sources. High and Low rates are crudely estimated. The data has 4 columns and 5381 rows
+
+The columns:
+Date: demonstrates the dates; it can be daily,weekly,monthly or annual.
+Rate:
+High(est):demonstrates the highest price of the time period.
+Low(est): demonstrates the lowest price of the time period.
+
